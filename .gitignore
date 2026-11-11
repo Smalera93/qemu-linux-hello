@@ -1,0 +1,8 @@
+# Generated filesystem and build artefacts
+/build/
+
+# Downloaded dependencies
+/downloads/
+
+# Temporary files
+*.tmp
